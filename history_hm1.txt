@@ -1,0 +1,15 @@
+   0 mkdir -p /opt/test/Olga
+   1 cd /opt/test/Olga
+   2 touch file.txt
+   3 cd /home
+   4 cp /opt/test/Olga/file.txt /tmp/file2.txt
+   5 tree /opt
+   6 tree /tmp
+   7 rm /opt/test/Olga/file.txt
+   8 tree/opt
+   9 ls
+  10 tree /opt
+  11 tmp/file2.txt
+  12 ls /tmp/file2.txt
+  13 history >history_hm1_txt
+  14 history > /tmp/history_hm1.txt
